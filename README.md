@@ -66,7 +66,7 @@ projects = [
         "description": "Breve descrição do seu projeto de ML aqui",
         "tech":        ["Python", "TensorFlow", "Docker"],
         "status":      "RUNNING ██████████ 100%",
-        "link":        "github.com/seu-usuario/projeto"
+        "link":        "github.com/victorazzuli/TechOn"
     },
     {
         "name":        "🟡 PROJECT_02",
